@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate full stack developer
+Hi there , I am Shan, a passionate full stack developer
 
 
 ## 🌐 Socials:
